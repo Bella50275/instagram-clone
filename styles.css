@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Apply a basic font */
+  body {
+    font-family: 'Arial', sans-serif;
+  }
+  .instagramContainer{
+    
+    /* border-radius: 350px ; */
+  }
+
+  .instagram-header{
+    /* width: 350px;
+    height: 350px; */
+    /* border-radius: 350px ; */
+  }
+  .carousel-images{
+    display:flex;
+    /* flex: space-between; */
+    width: 350px;
+    height: 350px;
+    border-radius: 350px ;
+  }
+  .lower_header{
+    width: 350px;
+    height: 350px;
+    /* border-radius: 350px ; */
+  }
+  .center_stage{
+    width: 350px;
+    height:350px;
+    /* border-radius: 350px ; */
+  }
+img{
+     width: 250px;
+     height: 250px;
+    border-radius: 350px ;
+}
+.footer{
+  width: 350px;
+  height:350px;
+}
+.footer-icons{
+  width: 350px;
+  height:350px;
+}
+body{
+    background-color: black;
+    color: white;
+}
+
